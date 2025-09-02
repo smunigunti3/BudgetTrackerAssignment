@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ExpenseDetailView: View {
     @Binding var expense: Expense
-    @ObservedObject var viewModel: BudgetViewModel
+    @State var viewModel: BudgetViewModel
     
     var body: some View {
         List {

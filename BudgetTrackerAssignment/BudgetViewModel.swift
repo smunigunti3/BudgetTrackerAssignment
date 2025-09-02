@@ -7,8 +7,8 @@
 
 import SwiftUI
 
-class BudgetViewModel: ObservableObject {
-    @Published var expenses: [Expense] = []
+@Observable class BudgetViewModel {
+    var expenses: [Expense] = []
     
     var remainingBudget: Double {
         // TODO: Calculate the remaining budget

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @ObservedObject private var viewModel = BudgetViewModel()
+    @State private var viewModel = BudgetViewModel()
     @State private var expenseName = ""
     @State private var expenseAmount = ""
     

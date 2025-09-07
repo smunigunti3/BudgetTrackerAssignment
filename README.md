@@ -37,5 +37,5 @@ https://github.com/user-attachments/assets/da10cf77-f092-4660-aab1-c0b6eb49b757
 
 ## Submission  
 1. Place your completed assignment in a `.zip` file.  
-2. Include a screen recording of your app demonstrating all functionality.  
-3. Send both files to one of the exec members on Discord.  
+2. Make a screen recording of your app demonstrating all functionality.  
+3. Submit both of these files on the project application form.

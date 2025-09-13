@@ -1,8 +1,6 @@
-# Starter Assignment: Budget Tracker  
+# Starter Assignment: Budget Tracker   
 
-This assignment requires you to create a **budget tracking app** with the following requirements:  
-
-## Requirements  
+## Features  
 - A **home page** that displays:  
   - The total remaining budget.  
   - A form to add new expenses (name + amount).  
@@ -20,22 +18,8 @@ This assignment requires you to create a **budget tracking app** with the follow
 
 ---
 
-## Starter Code  
-The provided starter code includes:  
-- Boilerplate for the **model**, **view model**, and main views.  
-- `TODO` comments that guide you on where to add missing functionality.  
+## Demo Video
 
-You may add more functions, view modifiers, and files as needed.  
+[https://github.com/user-attachments/assets/da10cf77-f092-4660-aab1-c0b6eb49b757](https://youtube.com/shorts/eAcOAtdbDiA?feature=share)
 
 ---
-
-## Screen Recording For Expected Results
-
-https://github.com/user-attachments/assets/da10cf77-f092-4660-aab1-c0b6eb49b757
-
----
-
-## Submission  
-1. Place your completed assignment in a `.zip` file.  
-2. Make a screen recording of your app demonstrating all functionality.  
-3. Submit both of these files on the project application form.
